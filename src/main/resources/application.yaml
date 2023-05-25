@@ -1,0 +1,4 @@
+java:
+  starter:
+    enabled: true
+    name: xxxx
